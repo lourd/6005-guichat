@@ -9,7 +9,7 @@ import javax.swing.ListCellRenderer;
 /**
  * This will be needed if we want to update the text for when people
  * are away.
- * @author LDeSci
+ * @author descioli
  *
  */
 public class MyListRenderer extends JLabel implements ListCellRenderer{

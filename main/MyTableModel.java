@@ -7,7 +7,7 @@ import javax.swing.table.DefaultTableModel;
 /**
  * A subclass of DefaultTableModel to make it uneditable
  * 
- * @author LDeSci
+ * @author descioli
  * 
  */
 public class MyTableModel extends DefaultTableModel {
